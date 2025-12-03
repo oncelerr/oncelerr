@@ -19,7 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
-### 🔝 Top Contributed Repo
 <!-- ![image](   https://github-readme-activity-graph.vercel.app/graph?username=RyanJamesIndangan) -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oncelerr&theme=github-compact&hide_border=true&area=true)
 ![](https://github-contributor-stats.vercel.app/api?username=oncelerr&limit=5&theme=dark&combine_all_yearly_contributions=true)
